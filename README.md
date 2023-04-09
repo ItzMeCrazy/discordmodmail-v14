@@ -5,11 +5,11 @@
 
 <p align="center">
     <a style="font-size:15px;font-family:verdana"><b>GitHub Repository Statistics/Info:</b></a><br>
-    <img src="https://img.shields.io/github/release/TFAGaming/DiscordJS-V14-ModMail-Bot?label=Release&logo=files">
-    <img src="https://img.shields.io/github/forks/TFAGaming/DiscordJS-V14-ModMail-Bot?label=Forks&color=lime&logo=githubactions&logoColor=lime">
-    <img src="https://img.shields.io/github/stars/TFAGaming/DiscordJS-V14-ModMail-Bot?label=Stars&color=yellow&logo=reverbnation&logoColor=yellow">
-    <img src="https://img.shields.io/github/license/TFAGaming/DiscordJS-V14-ModMail-Bot?label=License&color=808080&logo=gitbook&logoColor=808080">
-    <img src="https://img.shields.io/github/issues/TFAGaming/DiscordJS-V14-ModMail-Bot?label=Issues&color=red&logo=ifixit&logoColor=red">
+    <img src="https://img.shields.io/github/release/ItzMeCrazy/discordmodmail-v14?label=Release&logo=files">
+    <img src="https://img.shields.io/github/forks/ItzMeCrazy/discordmodmail-v14?label=Forks&color=lime&logo=githubactions&logoColor=lime">
+    <img src="https://img.shields.io/github/stars/ItzMeCrazy/discordmodmail-v14?label=Stars&color=yellow&logo=reverbnation&logoColor=yellow">
+    <img src="https://img.shields.io/github/license/ItzMeCrazy/discordmodmail-v14?label=License&color=808080&logo=gitbook&logoColor=808080">
+    <img src="https://img.shields.io/github/issues/ItzMeCrazy/discordmodmail-v14?label=Issues&color=red&logo=ifixit&logoColor=red">
     <br>
     <a style="font-size:15px;font-family:verdana"><b>Discord Server:</b></a><br>
     <a href="https://discord.gg/bGNRZcnwWy">
