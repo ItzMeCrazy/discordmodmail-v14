@@ -47,8 +47,8 @@
 
 > ⚠️ **WARNING:** Your bot **must** have the `Administrator` permission on your server and **above** to all the server roles (*Except owner roles, because they have Administrator permission already.*), else your bot won't work and it is going to show a lot of errors in your IDE's console.
 
-## Seting up for the bot
-# Fill the config in `config.js` file.
+# Seting up for the bot
+## Fill the config in `config.js` file.
 
 ```js
 module.exports = {
@@ -71,13 +71,9 @@ module.exports = {
 ```
 
 # Starting the bot
-> ```
-npm i
-```to install | update the packages
+> ```npm i```to install | update the packages
 
-> ```
-node index.js
-```to start the project
+> ```node index.js```to start the project
 
 # Something doesn't work here...
 There are a lot of issues happens with some users. You can create an issue on this repository and I will respond to your opened issue(s) as fast as possible. I'm always busy, so please wait for me to respond to your issues.
