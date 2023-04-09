@@ -12,16 +12,16 @@
     <br>
     <a style="font-size:15px;font-family:verdana"><b>Discord Server:</b></a><br>
     <a href="https://discord.gg/bGNRZcnwWy">
-        <img src="https://img.shields.io/discord/918611797194465280.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
+        <img src="https://img.shields.io/discord/967431124764745800.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
     </a>
     <a style="font-size:15px;font-family:verdana"><b>Language:</b></a><br>
     <img src="https://img.shields.io/badge/JavaScript-100000?label=Made%20with:&style=flat&logo=javascript&color=yellow">
     <br>
     <a style="font-size:15px;font-family:verdana"><b>Fork/Download For:</b></a><br>
-    <a href="https://replit.com/github/TFAGaming/DiscordJS-V14-ModMail-Bot">
+    <a href="https://replit.com/github/ItzMeCrazy/discordmodmail-v14">
         <img src="https://img.shields.io/badge/Repl.it-100000?label=Fork%20on:&style=flat&logo=replit&color=808080&logoColor=white">
     </a>
-    <a href="https://github.com/TFAGaming/DiscordJS-V14-ModMail-Bot/fork">
+    <a href="https://github.com/ItzMeCrazy/discordmodmail-v14/fork">
         <img src="https://img.shields.io/badge/GitHub-100000?label=Fork%20on:&style=flat&logo=github&color=808080">
     </a>
 </p>
