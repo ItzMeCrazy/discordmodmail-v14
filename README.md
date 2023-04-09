@@ -67,7 +67,8 @@ module.exports = {
     MAIL_MANAGER_ROLES: [''], // Number & Array
     MENTION_MANAGER_ROLES_WHEN_NEW_MAIL_CREATED: false // Boolean
   }
-};```
+};
+```
 
 # Starting the bot
 > `npm i` to install | update the packages
