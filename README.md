@@ -39,7 +39,7 @@
 #### ⭐️ Supports Buttons & More cool features!
 
 	
-	### - Requirements:
+### - Requirements:
 
 • **Node.js v16.9.0 or above.** <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/v16.9.0-100000?style=flat&logo=node.js&label=Node.js&color=blue&logoColor=lime"></a><br>
 • **Discord.js v14.3.0 or above**. <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/badge/v14.3.0-100000?style=flat&logo=npm&label=Discord.js&color=blue"></a>
@@ -48,9 +48,9 @@
 > ⚠️ **WARNING:** Your bot **must** have the `Administrator` permission on your server and **above** to all the server roles (*Except owner roles, because they have Administrator permission already.*), else your bot won't work and it is going to show a lot of errors in your IDE's console.
 
 ## Seting up for the bot
-	# Fill the config in `config.js` file.
+# Fill the config in `config.js` file.
 
-	```js
+```js
 module.exports = {
   Client: {
     TOKEN: "", // String
@@ -69,14 +69,14 @@ module.exports = {
   }
 };```
 
-	# Starting the bot
+# Starting the bot
 > `npm i` to install | update the packages
 > `node index.js` to start the project
 
 # Something doesn't work here...
 There are a lot of issues happens with some users. You can create an issue on this repository and I will respond to your opened issue(s) as fast as possible. I'm always busy, so please wait for me to respond to your issues.
 
-   ### Developer Area
+### Developer Area
 	# DiscordJS V14 ModMail Bot - Introduction:
 A Discord bot project made with the npm package discord.js version 14 and it's job to manage mails on a server, and this project includes only one Database: Quick.db. This project also handles Slash commands. **Project made with ❤ by T.F.A#7524.**<br>
 You can click on the star (⭐️) button above this repository if you liked this project! Thank you all. 🙏 
