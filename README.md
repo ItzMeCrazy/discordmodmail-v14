@@ -5,7 +5,6 @@
 
 <p align="center">
     <a style="font-size:15px;font-family:verdana"><b>GitHub Repository Statistics/Info:</b></a><br>
-    <img src="https://img.shields.io/github/release/ItzMeCrazy/discordmodmail-v14?label=Release&logo=files">
     <img src="https://img.shields.io/github/forks/ItzMeCrazy/discordmodmail-v14?label=Forks&color=lime&logo=githubactions&logoColor=lime">
     <img src="https://img.shields.io/github/stars/ItzMeCrazy/discordmodmail-v14?label=Stars&color=yellow&logo=reverbnation&logoColor=yellow">
     <img src="https://img.shields.io/github/license/ItzMeCrazy/discordmodmail-v14?label=License&color=808080&logo=gitbook&logoColor=808080">
