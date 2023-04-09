@@ -49,7 +49,8 @@
 
 ## Seting up for the bot
 	# Fill the config in `config.js` file.
-```js
+
+	```js
 module.exports = {
   Client: {
     TOKEN: "", // String
