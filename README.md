@@ -71,8 +71,13 @@ module.exports = {
 ```
 
 # Starting the bot
-> `npm i` to install | update the packages
-> `node index.js` to start the project
+> ```
+npm i
+```to install | update the packages
+
+> ```
+node index.js
+```to start the project
 
 # Something doesn't work here...
 There are a lot of issues happens with some users. You can create an issue on this repository and I will respond to your opened issue(s) as fast as possible. I'm always busy, so please wait for me to respond to your issues.
